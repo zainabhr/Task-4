@@ -18,7 +18,7 @@ passwordInput.addEventListener("focus", () =>{
 })
 
 loginbtn.addEventListener("click", () =>{
-    window.location.href = "profile page/profile page.html"
+    window.location.href = "profile page.html"
 })
 /////////ERROR POP UP///////
 
